@@ -10,3 +10,17 @@
 
 --> add command
     git add filename ##To know who have done the changes 
+
+-->GIT CONFIG
+    git config --global user.email "Durgaprasad003@gmail.com"##email of gitaccount
+     git config --global user.name "prasad"
+-->commit command
+    git commit -m "git guide is created"
+
+
+--> vi filename ## to make changes or to edit file
+
+-->CAT COMMAND
+   cat filename ### it displays the content in the file
+
+
