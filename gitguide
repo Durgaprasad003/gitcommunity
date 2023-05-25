@@ -1,0 +1,12 @@
+--> touch command
+    touh filename  ##it will create file in that given folder
+
+--> rm command
+    rm -rf filename ## it will remove the file from that folder
+
+
+--> status command
+    git status 
+
+--> add command
+    git add filename ##To know who have done the changes 
